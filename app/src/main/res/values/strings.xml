@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aplikasi Story Subsatu</string>
+    <string name="storyImage">image %s</string>
+    <string name="storyDescription">desc %s</string>
+    <string name="storyName">name %s</string>
+    <string name="image_detail">image_detail</string>
+</resources>
